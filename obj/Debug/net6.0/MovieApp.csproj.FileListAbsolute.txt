@@ -1,0 +1,14 @@
+D:\Phase 4\Day-5\MovieApp\bin\Debug\net6.0\MovieApp.exe
+D:\Phase 4\Day-5\MovieApp\bin\Debug\net6.0\MovieApp.deps.json
+D:\Phase 4\Day-5\MovieApp\bin\Debug\net6.0\MovieApp.runtimeconfig.json
+D:\Phase 4\Day-5\MovieApp\bin\Debug\net6.0\MovieApp.dll
+D:\Phase 4\Day-5\MovieApp\bin\Debug\net6.0\MovieApp.pdb
+D:\Phase 4\Day-5\MovieApp\obj\Debug\net6.0\MovieApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phase 4\Day-5\MovieApp\obj\Debug\net6.0\MovieApp.AssemblyInfoInputs.cache
+D:\Phase 4\Day-5\MovieApp\obj\Debug\net6.0\MovieApp.AssemblyInfo.cs
+D:\Phase 4\Day-5\MovieApp\obj\Debug\net6.0\MovieApp.csproj.CoreCompileInputs.cache
+D:\Phase 4\Day-5\MovieApp\obj\Debug\net6.0\MovieApp.dll
+D:\Phase 4\Day-5\MovieApp\obj\Debug\net6.0\refint\MovieApp.dll
+D:\Phase 4\Day-5\MovieApp\obj\Debug\net6.0\MovieApp.pdb
+D:\Phase 4\Day-5\MovieApp\obj\Debug\net6.0\MovieApp.genruntimeconfig.cache
+D:\Phase 4\Day-5\MovieApp\obj\Debug\net6.0\ref\MovieApp.dll
